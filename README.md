@@ -4,6 +4,7 @@
 bank. Based on this dataset, you are required to use all your knowledge and skills that you have
 gained throughout the module to address one of the business challenges given below
 
+<strong>Note: The dataset is private<strong> 
 
 <strong>Bộ dataset bao gồm các dữ liệu về:</strong> 
 - Demographic của khách hàng (giới tính, nơi sinh sống, tình trạng hôn nhân)
