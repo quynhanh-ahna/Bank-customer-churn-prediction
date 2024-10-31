@@ -1,8 +1,6 @@
-# Bank-customer-churn-prediction
+# Bank customer churn prediction | FDC05 - 2023
 
-# <center> DATA MINING PROJECT | FDC05 2023 <br > BANK CUSTOMERS' CHURN PREDICTION 
-
-<strong>Giới thiệu:</strong> You will find some information about a dataset provided by a commercial
+<strong>Introduction:</strong> You will find some information about a dataset provided by a commercial
 bank. Based on this dataset, you are required to use all your knowledge and skills that you have
 gained throughout the module to address one of the business challenges given below
 
