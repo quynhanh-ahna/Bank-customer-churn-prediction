@@ -4,7 +4,7 @@
 bank. Based on this dataset, you are required to use all your knowledge and skills that you have
 gained throughout the module to address one of the business challenges given below
 
-<strong>Note: The dataset is private<strong> 
+<strong>Note: The dataset is private</strong> 
 
 <strong>Bộ dataset bao gồm các dữ liệu về:</strong> 
 - Demographic của khách hàng (giới tính, nơi sinh sống, tình trạng hôn nhân)
@@ -24,12 +24,12 @@ gained throughout the module to address one of the business challenges given bel
 - Những khách hàng có ghi nhận giao dịch trong 3 tháng trước thời gian quan sát nhưng không có giao dịch trong tháng 3 và tháng 6. 
 - Hoặc những khách hàng không có giao dịch trong tháng 6 nhưng có giao dịch trong tháng 3, và balance tháng 6 bằng 0
 
-<strong>Câu hỏi đặt ra là:<strong>  Với đặc trưng của bộ dữ liệu, như thế nào gọi là có giao dịch?
+<strong>Câu hỏi đặt ra là:</strong>   Với đặc trưng của bộ dữ liệu, như thế nào gọi là có giao dịch?
 
 - Sau khi dán nhãn, tìm ra đặc điểm của nhóm khách hàng churn và không churn (demographic, behaviour dựa trên dữ liệu payment và transaction)
 - Lập model dự đoán khả năng churn
 
 <strong>Mô tả quá trình thực hiện:</strong>
-<br> Part 1. Data cleaning
-<br> Part 2. EDA
-<br> Phần 3. Model development
+- Part 1. Data cleaning
+- Part 2. EDA
+- Phần 3. Model development
